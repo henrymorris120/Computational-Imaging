@@ -1,2 +1,2 @@
-# Computational-Inverse-Problem
-Selected work in MATLAB from advanced cathematical course
+# Computational Images
+Selected projects in MATLAB and Python from graduate engineering course. Topics include 
